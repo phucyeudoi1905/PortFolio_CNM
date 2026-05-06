@@ -15,8 +15,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio - Nguyễn Thị Hoàng Phúc",
-  description: "Website portfolio ca nhan - CTK46",
+  title: "Simple Blog & Portfolio - Nguyễn Thị Hoàng Phúc",
+  description: "Blog Next.js + Supabase (Bài thực hành 4) — Website portfolio CTK46",
 };
 
 export default function RootLayout({
